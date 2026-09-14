@@ -50,7 +50,7 @@ Configure the following in `backend/.env`:
 CALLE_MODE=mock
 
 # CALL-E Developer API Key (Required when CALLE_MODE=real)
-CALLE_API_KEY=iams_live_3hEczlObrDzEe7ouQIaR_6c0ac9b46007f5b957078a45ca8ec84585f18c5d0756b393b00f2b540aba611b
+CALLE_API_KEY="api here"
 
 # Database & Gemini AI Settings
 DATABASE_URL=sqlite:///./callbot.db
